@@ -1,0 +1,63 @@
+{
+  "Comment": "See the wiki for all hat properties: https://github.com/Floogen/FashionSense/wiki/Hat-Model-Properties",
+  "Name": "Invisible Hat",
+  "Tags": [
+    "Invisible"
+  ],
+  "FrontHat": {
+    "StartingPosition": {
+      "X": 0,
+      "Y": 0
+    },
+    "HeadPosition": {
+      "X": -2,
+      "Y": 0
+    },
+    "HatSize": {
+      "Width": 16,
+      "Length": 16
+    }
+  },
+  "BackHat": {
+    "StartingPosition": {
+      "X": 0,
+      "Y": 0
+    },
+    "HeadPosition": {
+      "X": -2,
+      "Y": 0
+    },
+    "HatSize": {
+      "Width": 16,
+      "Length": 16
+    }
+  },
+  "LeftHat": {
+    "StartingPosition": {
+      "X": 0,
+      "Y": 0
+    },
+    "HeadPosition": {
+      "X": -2,
+      "Y": 0
+    },
+    "HatSize": {
+      "Width": 16,
+      "Length": 16
+    }
+  },
+  "RightHat": {
+    "StartingPosition": {
+      "X": 0,
+      "Y": 0
+    },
+    "HeadPosition": {
+      "X": -2,
+      "Y": 0
+    },
+    "HatSize": {
+      "Width": 16,
+      "Length": 16
+    }
+  }
+}

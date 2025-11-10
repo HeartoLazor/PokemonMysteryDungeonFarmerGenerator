@@ -1,0 +1,103 @@
+{
+  "Comment": 
+  " See the wiki for all sleeve properties: https://github.com/Floogen/FashionSense/wiki/Sleeves-Model-Properties
+
+    Refer to https://stardewvalleywiki.com/Modding:Farmer_sprite for frame data
+    Note: When using the above the formula for converting R#F# from pants value to sleeves is generally:
+    ((R - 1) * 12) + F -> This is due to the vanilla sleeves having 12 columns vs the 6 from pants
+    You do not need to follow this convention if using a custom tilesheet",
+
+  "Name": "Invisible Sleeves",
+  "Tags": [
+    "Invisible"
+  ],
+  "Format": "5.4.2",
+  "FrontSleeves": {
+    "DisableNativeOffset": true,
+    "UseShirtColors": false,
+    "DisableSkinGrayscale": true,
+    "StartingPosition": {
+      "X": 0,
+      "Y": 0
+    },
+    "BodyPosition": {
+      "X": 0,
+      "Y": 0
+    },
+    "SleevesSize": {
+      "Width": 16,
+      "Length": 32
+    },
+    "UniformAnimation": [
+      {
+        "Frame": 0
+      }
+    ]
+  },
+  "BackSleeves": {
+    "DisableNativeOffset": true,
+    "UseShirtColors": false,
+    "DisableSkinGrayscale": true,
+    "StartingPosition": {
+      "X": 0,
+      "Y": 0
+    },
+    "BodyPosition": {
+      "X": 0,
+      "Y": 0
+    },
+    "SleevesSize": {
+      "Width": 16,
+      "Length": 32
+    },
+    "UniformAnimation": [
+      {
+        "Frame": 0
+      }
+    ]
+  },
+  "LeftSleeves": {
+    "DisableNativeOffset": true,
+    "UseShirtColors": false,
+    "DisableSkinGrayscale": true,
+    "StartingPosition": {
+      "X": 0,
+      "Y": 0
+    },
+    "BodyPosition": {
+      "X": 0,
+      "Y": 0
+    },
+    "SleevesSize": {
+      "Width": 16,
+      "Length": 32
+    },
+    "UniformAnimation": [
+      {
+        "Frame": 0
+      }
+    ]
+  },
+  "RightSleeves": {
+    "DisableNativeOffset": true,
+    "UseShirtColors": false,
+    "DisableSkinGrayscale": true,
+    "StartingPosition": {
+      "X": 0,
+      "Y": 0
+    },
+    "BodyPosition": {
+      "X": 0,
+      "Y": 0
+    },
+    "SleevesSize": {
+      "Width": 16,
+      "Length": 32
+    },
+    "UniformAnimation": [
+      {
+        "Frame": 0
+      }
+    ]
+  }
+}

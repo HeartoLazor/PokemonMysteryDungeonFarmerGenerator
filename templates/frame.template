@@ -1,0 +1,13 @@
+      {
+        "Comment": "{{stardew_animation_name}} generated from Pokemon animation {{pokemon_animation_name}} frame number {{pokemon_frame_number}}",
+        "Frame": {{body_frame_number}},
+        "Duration" : {{duration}},
+        "EndWhenFarmerFrameUpdates": {{end_when_farmer_frame_updates}},
+        "Offset": { 
+          "X": {{ingame_frame_offset_x}}, 
+          "Y": {{ingame_frame_offset_y}} 
+        },
+        "Conditions": [
+{{conditions}}
+        ]
+      }

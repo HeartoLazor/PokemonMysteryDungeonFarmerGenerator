@@ -1,0 +1,3 @@
+Download the sprites from:
+https://github.com/PMDCollab/SpriteCollab
+copy the contents of sprite folder to this folder

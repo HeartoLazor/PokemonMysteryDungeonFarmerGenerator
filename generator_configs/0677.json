@@ -1,0 +1,8 @@
+{
+  "global_offsets": {
+    "pokemon_sprite_offset_y": 0,
+    "pokemon_portrait_offset_x": 6,
+    "accessory_offset": 32,
+    "head_offset": 32
+  }
+}

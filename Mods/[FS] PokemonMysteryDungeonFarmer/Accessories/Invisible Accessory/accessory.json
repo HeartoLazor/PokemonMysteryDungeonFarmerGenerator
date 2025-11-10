@@ -1,0 +1,62 @@
+{
+  "Name": "Invisible Accessory",
+  "Tags": [
+    "Invisible"
+  ],
+  "FrontAccessory": {
+    "StartingPosition": {
+      "X": 0,
+      "Y": 0
+    },
+    "HeadPosition": {
+      "X": 0,
+      "Y": 0
+    },
+    "AccessorySize": {
+      "Width": 16,
+      "Length": 16
+    }
+  },
+  "BackAccessory": {
+    "StartingPosition": {
+      "X": 0,
+      "Y": 0
+    },
+    "HeadPosition": {
+      "X": 0,
+      "Y": 0
+    },
+    "AccessorySize": {
+      "Width": 16,
+      "Length": 16
+    }
+  },
+  "LeftAccessory": {
+    "StartingPosition": {
+      "X": 0,
+      "Y": 0
+    },
+    "HeadPosition": {
+      "X": 0,
+      "Y": 0
+    },
+    "AccessorySize": {
+      "Width": 16,
+      "Length": 16
+    }
+  },
+  "RightAccessory": {
+    "StartingPosition": {
+      "X": 0,
+      "Y": 0
+    },
+    "HeadPosition": {
+      "X": 0,
+      "Y": 0
+    },
+    "AccessorySize": {
+      "Width": 16,
+      "Length": 16
+    }
+  }
+}

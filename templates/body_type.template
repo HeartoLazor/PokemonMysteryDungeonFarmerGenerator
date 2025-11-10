@@ -1,0 +1,26 @@
+  "{{body_type}}": {
+    "StartingPosition": {
+      "X": 0,
+      "Y": 0
+    },
+    "Flipped": {{flipped}},
+    "EyeBackgroundPosition": 40,
+    "EyePosition": 40,
+    "AccessoryOffset": {{accessory_offset}},
+    "HeadOffset": {{head_offset}},
+    "LegOffset": {{leg_offset}},
+    "ShoeOffset": {{shoe_offset}},
+    "BodyOffset": {{body_offset}},
+    "ArmsOffset": {{arms_offset}},
+    "BodySize": {
+      "Width": {{max_width}},
+      "Length": {{max_height}}
+    },
+{{portrait}}
+    "IdleAnimation": [
+{{idle_animations}}
+    ],
+    "MovementAnimation": [
+{{movement_animations}}
+    ]
+  }

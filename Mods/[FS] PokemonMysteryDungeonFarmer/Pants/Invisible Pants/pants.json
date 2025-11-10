@@ -1,0 +1,122 @@
+{
+  "Comment": 
+    " Copied, with permission, from violetlizabet s Vanilla Pants and Skirts pack (https://www.nexusmods.com/stardewvalley/mods/14154?tab=description)
+      See violetlizabet s SkirtConverter to easily convert JA or recolored vanilla pants / skirts into FS packs: https://github.com/elizabethcd/SkirtConverter
+
+      See the wiki for all pants properties: https://github.com/Floogen/FashionSense/wiki/Pants-Model-Properties
+
+      Refer to https://stardewvalleywiki.com/Modding:Farmer_sprite for frame data
+      You do not need to follow this convention if using a custom tilesheet",
+  "Name": "Invisible Pants",
+  "Tags": [
+    "Invisible"
+  ],
+  "FrontPants": {
+    "StartingPosition": {
+      "X": 0,
+      "Y": 0
+    },
+    "BodyPosition": {
+      "X": 0,
+      "Y": 0
+    },
+    "PantsSize": {
+      "Width": 16,
+      "Length": 32
+    },
+    "HideWhileSwimming": true,
+    "HideWhileWearingBathingSuit": true,
+    "DisableGrayscale": false,
+    "IdleAnimation": [
+      {
+        "Frame": 0
+      }
+    ],
+    "MovementAnimation": [
+      {
+        "Frame": 0
+      }
+    ]
+  },
+  "BackPants": {
+    "StartingPosition": {
+      "X": 0,
+      "Y": 0
+    },
+    "BodyPosition": {
+      "X": 0,
+      "Y": 0
+    },
+    "PantsSize": {
+      "Width": 16,
+      "Length": 32
+    },
+    "HideWhileSwimming": true,
+    "HideWhileWearingBathingSuit": true,
+    "DisableGrayscale": false,
+    "IdleAnimation": [
+      {
+        "Frame": 0
+      }
+    ],
+    "MovementAnimation": [
+      {
+        "Frame": 0
+      }
+    ]
+  },
+  "LeftPants": {
+    "StartingPosition": {
+      "X": 0,
+      "Y": 0
+    },
+    "BodyPosition": {
+      "X": 0,
+      "Y": 0
+    },
+    "PantsSize": {
+      "Width": 16,
+      "Length": 32
+    },
+    "HideWhileSwimming": true,
+    "HideWhileWearingBathingSuit": true,
+    "DisableGrayscale": false,
+    "IdleAnimation": [
+      {
+        "Frame": 0
+      }
+    ],
+    "MovementAnimation": [
+      {
+        "Frame": 0
+      }
+    ]
+  },
+  "RightPants": {
+    "StartingPosition": {
+      "X": 0,
+      "Y": 0
+    },
+    "BodyPosition": {
+      "X": 0,
+      "Y": 0
+    },
+    "PantsSize": {
+      "Width": 16,
+      "Length": 32
+    },
+    "HideWhileSwimming": true,
+    "HideWhileWearingBathingSuit": true,
+    "DisableGrayscale": false,
+    "IdleAnimation": [
+      {
+        "Frame": 0
+      }
+    ],
+    "MovementAnimation": [
+      {
+        "Frame": 0
+      }
+    ]
+  }
+}

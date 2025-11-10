@@ -1,0 +1,3 @@
+Follow the guide here to create custom sprites:
+https://github.com/PMDCollab/SpriteCollab
+You can copy any of the pokemon as a base and generate the debug sprites with the stardew generator to generate a guide with the highlighted sprites used with the stardew generator, so you can only edit the required sprites to minimize the spritework if it will be used in stardew.

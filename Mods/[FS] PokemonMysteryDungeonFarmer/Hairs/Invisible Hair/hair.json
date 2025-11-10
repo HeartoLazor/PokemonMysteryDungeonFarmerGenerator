@@ -1,0 +1,63 @@
+{
+  "Comment": "See the wiki for all haor properties: https://github.com/Floogen/FashionSense/wiki/Hair-Model-Properties",
+  "Name": "Invisible Hair",
+  "Tags": [
+    "Invisible"
+  ],
+  "FrontHair": {
+    "StartingPosition": {
+      "X": 0,
+      "Y": 0
+    },
+    "HeadPosition": {
+      "X": 0,
+      "Y": 0
+    },
+    "HairSize": {
+      "Width": 16,
+      "Length": 16
+    }
+  },
+  "BackHair": {
+    "StartingPosition": {
+      "X": 0,
+      "Y": 0
+    },
+    "HeadPosition": {
+      "X": 0,
+      "Y": 0
+    },
+    "HairSize": {
+      "Width": 16,
+      "Length": 16
+    }
+  },
+  "LeftHair": {
+    "StartingPosition": {
+      "X": 0,
+      "Y": 0
+    },
+    "HeadPosition": {
+      "X": 0,
+      "Y": 0
+    },
+    "HairSize": {
+      "Width": 16,
+      "Length": 16
+    }
+  },
+  "RightHair": {
+    "StartingPosition": {
+      "X": 0,
+      "Y": 0
+    },
+    "HeadPosition": {
+      "X": 0,
+      "Y": 0
+    },
+    "HairSize": {
+      "Width": 16,
+      "Length": 16
+    }
+  }
+}

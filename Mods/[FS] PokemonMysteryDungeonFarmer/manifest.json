@@ -1,0 +1,18 @@
+﻿{
+  "Name": "PokemonMysteryDungeonFarmer",
+  "Author": "HeartoLazor",
+  "Version": "1.0.0",
+  "Description": "Pokemon Mystery Dungeon replacement sprites for Fashion Sense.",
+  "UniqueID": "HeartoLazor.PokemonMysteryDungeonFarmer",
+  "UpdateKeys": ["Nexus:39038"],
+  "Dependencies": [
+    {
+      "UniqueID": "HeartoLazor.BobbingDisabler",
+      "IsRequired": true
+    }
+  ],
+  "ContentPackFor": {
+    "UniqueID": "PeacefulEnd.FashionSense",
+    "MinimumVersion": "7.0.2"
+  }
+}

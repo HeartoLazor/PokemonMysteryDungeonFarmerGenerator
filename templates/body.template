@@ -1,0 +1,13 @@
+{
+  "Comment":"See the wiki for all body properties: https://github.com/Floogen/FashionSense/wiki/Body-Model-Properties",
+  "Name": "{{pokemon_id_name}}",
+  "Format": "7.0.2",
+  "Tags": [
+{{pokemon_tags}}
+  ],
+  "HideEyes": true,
+{{front_body_type}},
+{{right_body_type}},
+{{back_body_type}},
+{{left_body_type}}
+}

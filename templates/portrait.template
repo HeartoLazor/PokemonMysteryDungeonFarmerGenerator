@@ -1,0 +1,12 @@
+    "Portrait" : {
+      "SourceRectangle" : {
+        "X": {{portrait_x}}, 
+        "Y": {{portrait_y}}, 
+        "Width": {{max_width}}, 
+        "Height": {{max_height}} 
+      },
+      "Offset" : {
+        "X": {{ingame_portrait_offset_x}}, 
+        "Y": {{ingame_portrait_offset_y}}
+      }
+    },

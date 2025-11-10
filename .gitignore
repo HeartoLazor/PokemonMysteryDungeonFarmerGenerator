@@ -1,0 +1,109 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.pydevproject
+.settings/
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Project specific
+/generated/
+/generated_debug/
+/stardew_missing.log
+*.log
+*.tmp
+*.temp
+
+# Sprite directories
+/sprites/pokemon/*/
+/sprites/custom/*/
+
+# Don't ignore the .txt files inside the folder
+!/sprites/pokemon/*.txt
+!/sprites/custom/*.txt
+
+# Output directories
+/output/
+/export/
+
+# Cache files
+.pytest_cache/
+.mypy_cache/
+.coverage
+.coverage.*
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Package files
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+
+# Database
+*.db
+*.sqlite3
+
+# Environment variables
+.env.local
+.env.prod
+
+# Temporary files
+*.tmp
+*.temp
+
+# Debug files
+debug_*
+*_debug.*

@@ -1,0 +1,94 @@
+{
+  "Comment": 
+  " See the wiki for all shoe properties: https://github.com/Floogen/FashionSense/wiki/Shoes-Model-Properties
+
+    Refer to https://stardewvalleywiki.com/Modding:Farmer_sprite for frame data
+    Note: When using the above the formula for converting R#F# from pants value to Shoes is generally:
+    ((R - 1) * 12) + F -> This is due to the vanilla Shoes having 12 columns vs the 6 from pants
+    You do not need to follow this convention if using a custom tilesheet",
+  "Name": "Invisible Shoes",
+  "Tags": [
+    "Invisible"
+  ],
+  "Format": "6.3.0",
+  "FrontShoes": {
+    "DisableNativeOffset": true,
+    "StartingPosition": {
+      "X": 0,
+      "Y": 0
+    },
+    "BodyPosition": {
+      "X": 0,
+      "Y": 0
+    },
+    "ShoesSize": {
+      "Width": 16,
+      "Length": 32
+    },
+    "UniformAnimation": [
+      {
+        "Frame": 0
+      }
+    ]
+  },
+  "BackShoes": {
+    "DisableNativeOffset": true,
+    "StartingPosition": {
+      "X": 0,
+      "Y": 0
+    },
+    "BodyPosition": {
+      "X": 0,
+      "Y": 0
+    },
+    "ShoesSize": {
+      "Width": 16,
+      "Length": 32
+    },
+    "UniformAnimation": [
+      {
+        "Frame": 0
+      }
+    ]
+  },
+  "LeftShoes": {
+    "DisableNativeOffset": true,
+    "StartingPosition": {
+      "X": 0,
+      "Y": 0
+    },
+    "BodyPosition": {
+      "X": 0,
+      "Y": 0
+    },
+    "ShoesSize": {
+      "Width": 16,
+      "Length": 32
+    },
+    "UniformAnimation": [
+      {
+        "Frame": 0
+      }
+    ]
+  },
+  "RightShoes": {
+    "DisableNativeOffset": true,
+    "StartingPosition": {
+      "X": 0,
+      "Y": 0
+    },
+    "BodyPosition": {
+      "X": 0,
+      "Y": 0
+    },
+    "ShoesSize": {
+      "Width": 16,
+      "Length": 32
+    },
+    "UniformAnimation": [
+      {
+        "Frame": 0
+      }
+    ]
+  }
+}

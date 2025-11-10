@@ -1,0 +1,5 @@
+          {
+            "{{condition_type}}": "{{condition_name}}",
+            "Value": true,
+            "Independant": true
+          }
